@@ -1,0 +1,20 @@
+{
+  "name": "js.cac",
+  "version": "1.0.0",
+  "description": "A code repo for JavaScript series cac",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NavneetNihal/js.CAC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NavneetNihal/js.CAC/issues"
+  },
+  "homepage": "https://github.com/NavneetNihal/js.CAC#readme"
+}
