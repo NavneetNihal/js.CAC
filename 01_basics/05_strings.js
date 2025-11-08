@@ -17,9 +17,9 @@ console.log(gameName.charAt(3));
 console.log(gameName.indexOf('A'));
 
 const newString = gameName.substring(0, 4)
-// console.log(newString);
+console.log(newString);
 
-const anotherString = gameName.slice(-9, 9)
+const anotherString = gameName.slice(0, 13)
 console.log(anotherString);
 
 const newStringOne = "     Nihal    "
