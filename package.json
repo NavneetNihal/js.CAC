@@ -2,7 +2,7 @@
   "name": "js.cac",
   "version": "1.0.0",
   "description": "A code repo for JavaScript series cac",
-  "main": "index.js",
+  "main": "04_control-flow.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
